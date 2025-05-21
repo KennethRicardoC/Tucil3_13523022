@@ -1,0 +1,29 @@
+Solusi ditemukan dalam 3 langkah:
+Waktu pencarian: 316 ms
+Papan awal:
+KABPP
+ AB..
+ ....
+     
+
+
+Langkah ke-1: Geser B ke bawah 1
+KA.PP
+ AB..
+ .B..
+     
+
+
+Langkah ke-2: Geser A ke bawah 1
+K..PP
+ AB..
+ AB..
+     
+
+
+Langkah ke-3: Geser P ke kiri 3
+PP...
+ AB..
+ AB..
+     
+

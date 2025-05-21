@@ -1,0 +1,1585 @@
+Solusi ditemukan dalam 175 langkah:
+Waktu pencarian: 391 ms
+Papan awal:
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-1: Geser C ke atas 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-2: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GH.III
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-3: Geser J ke atas 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ ZZ..MM
+
+
+Langkah ke-4: Geser M ke kiri 2
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ ZZMM..
+
+
+Langkah ke-5: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-6: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-7: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ .ZZ.MM
+
+
+Langkah ke-8: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHJIII
+ GHJ...
+ ..ZZMM
+
+
+Langkah ke-9: Geser H ke bawah 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ G.JIII
+ GHJ...
+ .HZZMM
+
+
+Langkah ke-10: Geser G ke bawah 1
+ AABC.F
+ ..BCDF
+K.PP.DF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-11: Geser H ke atas 1
+ AABC.F
+ ..BCDF
+K.PP.DF
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-12: Geser Z ke kiri 1
+ AABC.F
+ ..BCDF
+K.PP.DF
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-13: Geser M ke kiri 1
+ AABC.F
+ ..BCDF
+K.PP.DF
+ GHJIII
+ GHJ...
+ GZZMM.
+
+
+Langkah ke-14: Geser G ke atas 2
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ .ZZMM.
+
+
+Langkah ke-15: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ .ZZ.MM
+
+
+Langkah ke-16: Geser Z ke kanan 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ ..ZZMM
+
+
+Langkah ke-17: Geser Z ke kiri 2
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ ZZ..MM
+
+
+Langkah ke-18: Geser M ke kiri 2
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ ZZMM..
+
+
+Langkah ke-19: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHJIII
+ .HJ...
+ ZZ.MM.
+
+
+Langkah ke-20: Geser J ke bawah 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GH.III
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-21: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GH.III
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-22: Geser I ke kiri 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHIII.
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-23: Geser M ke kiri 1
+ AABC.F
+ G.BCDF
+KGPP.DF
+ GHIII.
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-24: Geser G ke bawah 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHIII.
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-25: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGPP.DF
+ GHIII.
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-26: Geser F ke bawah 2
+ AABC..
+ ..BCD.
+KGPP.DF
+ GHIIIF
+ GHJ..F
+ ZZJ.MM
+
+
+Langkah ke-27: Geser M ke kiri 1
+ AABC..
+ ..BCD.
+KGPP.DF
+ GHIIIF
+ GHJ..F
+ ZZJMM.
+
+
+Langkah ke-28: Geser G ke atas 1
+ AABC..
+ G.BCD.
+KGPP.DF
+ GHIIIF
+ .HJ..F
+ ZZJMM.
+
+
+Langkah ke-29: Geser M ke kanan 1
+ AABC..
+ G.BCD.
+KGPP.DF
+ GHIIIF
+ .HJ..F
+ ZZJ.MM
+
+
+Langkah ke-30: Geser F ke atas 1
+ AABC..
+ G.BCDF
+KGPP.DF
+ GHIIIF
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-31: Geser M ke kiri 1
+ AABC..
+ G.BCDF
+KGPP.DF
+ GHIIIF
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-32: Geser G ke bawah 1
+ AABC..
+ ..BCDF
+KGPP.DF
+ GHIIIF
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-33: Geser M ke kanan 1
+ AABC..
+ ..BCDF
+KGPP.DF
+ GHIIIF
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-34: Geser D ke atas 1
+ AABCD.
+ ..BCDF
+KGPP..F
+ GHIIIF
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-35: Geser M ke kiri 1
+ AABCD.
+ ..BCDF
+KGPP..F
+ GHIIIF
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-36: Geser G ke atas 1
+ AABCD.
+ G.BCDF
+KGPP..F
+ GHIIIF
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-37: Geser M ke kanan 1
+ AABCD.
+ G.BCDF
+KGPP..F
+ GHIIIF
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-38: Geser F ke bawah 1
+ AABCD.
+ G.BCD.
+KGPP..F
+ GHIIIF
+ .HJ..F
+ ZZJ.MM
+
+
+Langkah ke-39: Geser M ke kiri 1
+ AABCD.
+ G.BCD.
+KGPP..F
+ GHIIIF
+ .HJ..F
+ ZZJMM.
+
+
+Langkah ke-40: Geser G ke bawah 1
+ AABCD.
+ ..BCD.
+KGPP..F
+ GHIIIF
+ GHJ..F
+ ZZJMM.
+
+
+Langkah ke-41: Geser M ke kanan 1
+ AABCD.
+ ..BCD.
+KGPP..F
+ GHIIIF
+ GHJ..F
+ ZZJ.MM
+
+
+Langkah ke-42: Geser F ke atas 2
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHIII.
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-43: Geser M ke kiri 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHIII.
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-44: Geser I ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-45: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GH.III
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-46: Geser J ke atas 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ ZZ..MM
+
+
+Langkah ke-47: Geser M ke kiri 2
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ ZZMM..
+
+
+Langkah ke-48: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-49: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-50: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ .ZZ.MM
+
+
+Langkah ke-51: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ GHJIII
+ GHJ...
+ ..ZZMM
+
+
+Langkah ke-52: Geser H ke bawah 1
+ AABCDF
+ ..BCDF
+KGPP..F
+ G.JIII
+ GHJ...
+ .HZZMM
+
+
+Langkah ke-53: Geser G ke bawah 1
+ AABCDF
+ ..BCDF
+K.PP..F
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-54: Geser H ke atas 1
+ AABCDF
+ ..BCDF
+K.PP..F
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-55: Geser Z ke kiri 1
+ AABCDF
+ ..BCDF
+K.PP..F
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-56: Geser M ke kiri 1
+ AABCDF
+ ..BCDF
+K.PP..F
+ GHJIII
+ GHJ...
+ GZZMM.
+
+
+Langkah ke-57: Geser G ke atas 2
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ .ZZMM.
+
+
+Langkah ke-58: Geser M ke kanan 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ .ZZ.MM
+
+
+Langkah ke-59: Geser Z ke kanan 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ ..ZZMM
+
+
+Langkah ke-60: Geser Z ke kiri 2
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ ZZ..MM
+
+
+Langkah ke-61: Geser M ke kiri 2
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ ZZMM..
+
+
+Langkah ke-62: Geser M ke kanan 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHJIII
+ .HJ...
+ ZZ.MM.
+
+
+Langkah ke-63: Geser J ke bawah 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GH.III
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-64: Geser M ke kanan 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GH.III
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-65: Geser I ke kiri 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHIII.
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-66: Geser M ke kiri 1
+ AABCDF
+ G.BCDF
+KGPP..F
+ GHIII.
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-67: Geser F ke bawah 3
+ AABCD.
+ G.BCD.
+KGPP...
+ GHIIIF
+ .HJ..F
+ ZZJMMF
+
+
+Langkah ke-68: Geser G ke bawah 1
+ AABCD.
+ ..BCD.
+KGPP...
+ GHIIIF
+ GHJ..F
+ ZZJMMF
+
+
+Langkah ke-69: Geser D ke bawah 1
+ AABC..
+ ..BCD.
+KGPP.D.
+ GHIIIF
+ GHJ..F
+ ZZJMMF
+
+
+Langkah ke-70: Geser P ke kanan 1
+ AABC..
+ ..BCD.
+KG.PPD.
+ GHIIIF
+ GHJ..F
+ ZZJMMF
+
+
+Langkah ke-71: Geser H ke atas 2
+ AABC..
+ .HBCD.
+KGHPPD.
+ G.IIIF
+ G.J..F
+ ZZJMMF
+
+
+Langkah ke-72: Geser I ke kiri 1
+ AABC..
+ .HBCD.
+KGHPPD.
+ GIII.F
+ G.J..F
+ ZZJMMF
+
+
+Langkah ke-73: Geser F ke atas 3
+ AABC.F
+ .HBCDF
+KGHPPDF
+ GIII..
+ G.J...
+ ZZJMM.
+
+
+Langkah ke-74: Geser M ke kanan 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ GIII..
+ G.J...
+ ZZJ.MM
+
+
+Langkah ke-75: Geser I ke kanan 2
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G..III
+ G.J...
+ ZZJ.MM
+
+
+Langkah ke-76: Geser M ke kiri 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G..III
+ G.J...
+ ZZJMM.
+
+
+Langkah ke-77: Geser J ke atas 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ ZZ.MM.
+
+
+Langkah ke-78: Geser M ke kanan 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ ZZ..MM
+
+
+Langkah ke-79: Geser M ke kiri 2
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ ZZMM..
+
+
+Langkah ke-80: Geser H ke bawah 2
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ ZZMM..
+
+
+Langkah ke-81: Geser M ke kanan 2
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ ZZ..MM
+
+
+Langkah ke-82: Geser M ke kiri 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-83: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-84: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ .ZZ.MM
+
+
+Langkah ke-85: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHJIII
+ GHJ...
+ ..ZZMM
+
+
+Langkah ke-86: Geser H ke bawah 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ G.JIII
+ GHJ...
+ .HZZMM
+
+
+Langkah ke-87: Geser H ke atas 3
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ ..ZZMM
+
+
+Langkah ke-88: Geser Z ke kiri 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ .ZZ.MM
+
+
+Langkah ke-89: Geser M ke kiri 1
+ AABC.F
+ .HBCDF
+KGHPPDF
+ G.JIII
+ G.J...
+ .ZZMM.
+
+
+Langkah ke-90: Geser H ke bawah 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ .ZZMM.
+
+
+Langkah ke-91: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ .ZZ.MM
+
+
+Langkah ke-92: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ ..ZZMM
+
+
+Langkah ke-93: Geser Z ke kiri 2
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ ZZ..MM
+
+
+Langkah ke-94: Geser M ke kiri 2
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ ZZMM..
+
+
+Langkah ke-95: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHJIII
+ G.J...
+ ZZ.MM.
+
+
+Langkah ke-96: Geser J ke bawah 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GH.III
+ G.J...
+ ZZJMM.
+
+
+Langkah ke-97: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GH.III
+ G.J...
+ ZZJ.MM
+
+
+Langkah ke-98: Geser I ke kiri 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHIII.
+ G.J...
+ ZZJ.MM
+
+
+Langkah ke-99: Geser M ke kiri 1
+ AABC.F
+ ..BCDF
+KGHPPDF
+ GHIII.
+ G.J...
+ ZZJMM.
+
+
+Langkah ke-100: Geser H ke bawah 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHIII.
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-101: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GHIII.
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-102: Geser I ke kanan 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GH.III
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-103: Geser M ke kiri 1
+ AABC.F
+ ..BCDF
+KG.PPDF
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-104: Geser G ke atas 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GH.III
+ .HJ...
+ ZZJMM.
+
+
+Langkah ke-105: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GH.III
+ .HJ...
+ ZZJ.MM
+
+
+Langkah ke-106: Geser J ke atas 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ ZZ..MM
+
+
+Langkah ke-107: Geser M ke kiri 2
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ ZZMM..
+
+
+Langkah ke-108: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ ZZ.MM.
+
+
+Langkah ke-109: Geser Z ke kanan 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ .ZZMM.
+
+
+Langkah ke-110: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ .ZZ.MM
+
+
+Langkah ke-111: Geser Z ke kanan 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ GHJIII
+ .HJ...
+ ..ZZMM
+
+
+Langkah ke-112: Geser H ke bawah 1
+ AABC.F
+ G.BCDF
+KG.PPDF
+ G.JIII
+ .HJ...
+ .HZZMM
+
+
+Langkah ke-113: Geser H ke atas 3
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ ..ZZMM
+
+
+Langkah ke-114: Geser Z ke kiri 2
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ ZZ..MM
+
+
+Langkah ke-115: Geser M ke kiri 2
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ ZZMM..
+
+
+Langkah ke-116: Geser M ke kanan 1
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ ZZ.MM.
+
+
+Langkah ke-117: Geser Z ke kanan 1
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ .ZZMM.
+
+
+Langkah ke-118: Geser M ke kanan 1
+ AABC.F
+ GHBCDF
+KGHPPDF
+ G.JIII
+ ..J...
+ .ZZ.MM
+
+
+Langkah ke-119: Geser H ke bawah 1
+ AABC.F
+ G.BCDF
+KGHPPDF
+ GHJIII
+ ..J...
+ .ZZ.MM
+
+
+Langkah ke-120: Geser M ke kiri 1
+ AABC.F
+ G.BCDF
+KGHPPDF
+ GHJIII
+ ..J...
+ .ZZMM.
+
+
+Langkah ke-121: Geser Z ke kiri 1
+ AABC.F
+ G.BCDF
+KGHPPDF
+ GHJIII
+ ..J...
+ ZZ.MM.
+
+
+Langkah ke-122: Geser M ke kanan 1
+ AABC.F
+ G.BCDF
+KGHPPDF
+ GHJIII
+ ..J...
+ ZZ..MM
+
+
+Langkah ke-123: Geser M ke kiri 2
+ AABC.F
+ G.BCDF
+KGHPPDF
+ GHJIII
+ ..J...
+ ZZMM..
+
+
+Langkah ke-124: Geser D ke atas 1
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ ZZMM..
+
+
+Langkah ke-125: Geser M ke kanan 2
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ ZZ..MM
+
+
+Langkah ke-126: Geser M ke kiri 1
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ ZZ.MM.
+
+
+Langkah ke-127: Geser Z ke kanan 1
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ .ZZMM.
+
+
+Langkah ke-128: Geser M ke kanan 1
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ .ZZ.MM
+
+
+Langkah ke-129: Geser Z ke kanan 1
+ AABCDF
+ G.BCDF
+KGHPP.F
+ GHJIII
+ ..J...
+ ..ZZMM
+
+
+Langkah ke-130: Geser H ke bawah 2
+ AABCDF
+ G.BCDF
+KG.PP.F
+ G.JIII
+ .HJ...
+ .HZZMM
+
+
+Langkah ke-131: Geser H ke atas 3
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ ..ZZMM
+
+
+Langkah ke-132: Geser Z ke kiri 2
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ ZZ..MM
+
+
+Langkah ke-133: Geser M ke kiri 2
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ ZZMM..
+
+
+Langkah ke-134: Geser M ke kanan 1
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ ZZ.MM.
+
+
+Langkah ke-135: Geser Z ke kanan 1
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ .ZZMM.
+
+
+Langkah ke-136: Geser M ke kanan 1
+ AABCDF
+ GHBCDF
+KGHPP.F
+ G.JIII
+ ..J...
+ .ZZ.MM
+
+
+Langkah ke-137: Geser H ke bawah 2
+ AABCDF
+ G.BCDF
+KG.PP.F
+ GHJIII
+ .HJ...
+ .ZZ.MM
+
+
+Langkah ke-138: Geser M ke kiri 1
+ AABCDF
+ G.BCDF
+KG.PP.F
+ GHJIII
+ .HJ...
+ .ZZMM.
+
+
+Langkah ke-139: Geser Z ke kiri 1
+ AABCDF
+ G.BCDF
+KG.PP.F
+ GHJIII
+ .HJ...
+ ZZ.MM.
+
+
+Langkah ke-140: Geser M ke kanan 1
+ AABCDF
+ G.BCDF
+KG.PP.F
+ GHJIII
+ .HJ...
+ ZZ..MM
+
+
+Langkah ke-141: Geser M ke kiri 2
+ AABCDF
+ G.BCDF
+KG.PP.F
+ GHJIII
+ .HJ...
+ ZZMM..
+
+
+Langkah ke-142: Geser G ke bawah 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ ZZMM..
+
+
+Langkah ke-143: Geser M ke kanan 2
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ ZZ..MM
+
+
+Langkah ke-144: Geser M ke kiri 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-145: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-146: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ .ZZ.MM
+
+
+Langkah ke-147: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ GHJIII
+ GHJ...
+ ..ZZMM
+
+
+Langkah ke-148: Geser H ke bawah 1
+ AABCDF
+ ..BCDF
+KG.PP.F
+ G.JIII
+ GHJ...
+ .HZZMM
+
+
+Langkah ke-149: Geser H ke atas 3
+ AABCDF
+ .HBCDF
+KGHPP.F
+ G.JIII
+ G.J...
+ ..ZZMM
+
+
+Langkah ke-150: Geser Z ke kiri 1
+ AABCDF
+ .HBCDF
+KGHPP.F
+ G.JIII
+ G.J...
+ .ZZ.MM
+
+
+Langkah ke-151: Geser M ke kiri 1
+ AABCDF
+ .HBCDF
+KGHPP.F
+ G.JIII
+ G.J...
+ .ZZMM.
+
+
+Langkah ke-152: Geser H ke bawah 1
+ AABCDF
+ ..BCDF
+KGHPP.F
+ GHJIII
+ G.J...
+ .ZZMM.
+
+
+Langkah ke-153: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+KGHPP.F
+ GHJIII
+ G.J...
+ .ZZ.MM
+
+
+Langkah ke-154: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+KGHPP.F
+ GHJIII
+ G.J...
+ ..ZZMM
+
+
+Langkah ke-155: Geser G ke bawah 1
+ AABCDF
+ ..BCDF
+K.HPP.F
+ GHJIII
+ G.J...
+ G.ZZMM
+
+
+Langkah ke-156: Geser Z ke kiri 1
+ AABCDF
+ ..BCDF
+K.HPP.F
+ GHJIII
+ G.J...
+ GZZ.MM
+
+
+Langkah ke-157: Geser M ke kiri 1
+ AABCDF
+ ..BCDF
+K.HPP.F
+ GHJIII
+ G.J...
+ GZZMM.
+
+
+Langkah ke-158: Geser H ke bawah 1
+ AABCDF
+ ..BCDF
+K..PP.F
+ GHJIII
+ GHJ...
+ GZZMM.
+
+
+Langkah ke-159: Geser M ke kanan 1
+ AABCDF
+ ..BCDF
+K..PP.F
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-160: Geser Z ke kanan 1
+ AABCDF
+ ..BCDF
+K..PP.F
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-161: Geser H ke bawah 1
+ AABCDF
+ ..BCDF
+K..PP.F
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-162: Geser H ke atas 3
+ AABCDF
+ .HBCDF
+K.HPP.F
+ G.JIII
+ G.J...
+ G.ZZMM
+
+
+Langkah ke-163: Geser Z ke kiri 1
+ AABCDF
+ .HBCDF
+K.HPP.F
+ G.JIII
+ G.J...
+ GZZ.MM
+
+
+Langkah ke-164: Geser M ke kiri 1
+ AABCDF
+ .HBCDF
+K.HPP.F
+ G.JIII
+ G.J...
+ GZZMM.
+
+
+Langkah ke-165: Geser D ke bawah 1
+ AABC.F
+ .HBCDF
+K.HPPDF
+ G.JIII
+ G.J...
+ GZZMM.
+
+
+Langkah ke-166: Geser M ke kanan 1
+ AABC.F
+ .HBCDF
+K.HPPDF
+ G.JIII
+ G.J...
+ GZZ.MM
+
+
+Langkah ke-167: Geser Z ke kanan 1
+ AABC.F
+ .HBCDF
+K.HPPDF
+ G.JIII
+ G.J...
+ G.ZZMM
+
+
+Langkah ke-168: Geser H ke bawah 3
+ AABC.F
+ ..BCDF
+K..PPDF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-169: Geser H ke atas 2
+ AABC.F
+ ..BCDF
+K.HPPDF
+ GHJIII
+ G.J...
+ G.ZZMM
+
+
+Langkah ke-170: Geser Z ke kiri 1
+ AABC.F
+ ..BCDF
+K.HPPDF
+ GHJIII
+ G.J...
+ GZZ.MM
+
+
+Langkah ke-171: Geser M ke kiri 1
+ AABC.F
+ ..BCDF
+K.HPPDF
+ GHJIII
+ G.J...
+ GZZMM.
+
+
+Langkah ke-172: Geser H ke bawah 1
+ AABC.F
+ ..BCDF
+K..PPDF
+ GHJIII
+ GHJ...
+ GZZMM.
+
+
+Langkah ke-173: Geser M ke kanan 1
+ AABC.F
+ ..BCDF
+K..PPDF
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-174: Geser Z ke kanan 1
+ AABC.F
+ ..BCDF
+K..PPDF
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-175: Geser P ke kiri 3
+ AABC.F
+ ..BCDF
+PP...DF
+ GHJIII
+ GHJ...
+ G.ZZMM
+

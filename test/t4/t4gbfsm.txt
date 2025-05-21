@@ -1,0 +1,163 @@
+Solusi ditemukan dalam 17 langkah:
+Waktu pencarian: 904 ms
+Papan awal:
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-1: Geser M ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GH.III
+ GHJ...
+ ZZJ.MM
+
+
+Langkah ke-2: Geser J ke atas 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ ZZ..MM
+
+
+Langkah ke-3: Geser M ke kiri 2
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ ZZMM..
+
+
+Langkah ke-4: Geser M ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-5: Geser Z ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-6: Geser M ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ .ZZ.MM
+
+
+Langkah ke-7: Geser Z ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ ..ZZMM
+
+
+Langkah ke-8: Geser H ke bawah 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ G.JIII
+ GHJ...
+ .HZZMM
+
+
+Langkah ke-9: Geser G ke bawah 1
+ AAB..F
+ ..BCDF
+K.PPCDF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-10: Geser P ke kiri 1
+ AAB..F
+ ..BCDF
+KPP.CDF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-11: Geser B ke bawah 1
+ AA...F
+ ..BCDF
+KPPBCDF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-12: Geser A ke kanan 2
+ ..AA.F
+ ..BCDF
+KPPBCDF
+ G.JIII
+ GHJ...
+ GHZZMM
+
+
+Langkah ke-13: Geser H ke atas 1
+ ..AA.F
+ ..BCDF
+KPPBCDF
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-14: Geser A ke kanan 1
+ ...AAF
+ ..BCDF
+KPPBCDF
+ GHJIII
+ GHJ...
+ G.ZZMM
+
+
+Langkah ke-15: Geser Z ke kiri 1
+ ...AAF
+ ..BCDF
+KPPBCDF
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-16: Geser A ke kiri 2
+ .AA..F
+ ..BCDF
+KPPBCDF
+ GHJIII
+ GHJ...
+ GZZ.MM
+
+
+Langkah ke-17: Geser P ke kiri 1
+ .AA..F
+ ..BCDF
+PP.BCDF
+ GHJIII
+ GHJ...
+ GZZ.MM
+

@@ -1,0 +1,109 @@
+Solusi ditemukan dalam 11 langkah:
+Waktu pencarian: 523 ms
+Papan awal:
+AABB.C 
+..D..C 
+PPD..CK
+..DEE. 
+FF.... 
+GG.... 
+
+
+Langkah ke-1: Geser D ke bawah 2
+AABB.C 
+.....C 
+PP...CK
+..DEE. 
+FFD... 
+GGD... 
+
+
+Langkah ke-2: Geser P ke kanan 2
+AABB.C 
+.....C 
+..PP.CK
+..DEE. 
+FFD... 
+GGD... 
+
+
+Langkah ke-3: Geser C ke bawah 3
+AABB.. 
+...... 
+..PP..K
+..DEEC 
+FFD..C 
+GGD..C 
+
+
+Langkah ke-4: Geser P ke kanan 1
+AABB.. 
+...... 
+...PP.K
+..DEEC 
+FFD..C 
+GGD..C 
+
+
+Langkah ke-5: Geser D ke atas 2
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+FF...C 
+GG...C 
+
+
+Langkah ke-6: Geser G ke kanan 3
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+FF...C 
+...GGC 
+
+
+Langkah ke-7: Geser G ke kiri 2
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+FF...C 
+.GG..C 
+
+
+Langkah ke-8: Geser G ke kanan 1
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+FF...C 
+..GG.C 
+
+
+Langkah ke-9: Geser F ke kanan 3
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+...FFC 
+..GG.C 
+
+
+Langkah ke-10: Geser G ke kanan 1
+AABB.. 
+..D... 
+..DPP.K
+..DEEC 
+...FFC 
+...GGC 
+
+
+Langkah ke-11: Geser P ke kanan 2
+AABB.. 
+..D... 
+..D..PP
+..DEEC 
+...FFC 
+...GGC 
+

@@ -1,0 +1,46 @@
+Solusi ditemukan dalam 4 langkah:
+Waktu pencarian: 734 ms
+Papan awal:
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GH.III
+ GHJ...
+ ZZJMM.
+
+
+Langkah ke-1: Geser J ke atas 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ ZZ.MM.
+
+
+Langkah ke-2: Geser Z ke kanan 1
+ AAB..F
+ ..BCDF
+KGPPCDF
+ GHJIII
+ GHJ...
+ .ZZMM.
+
+
+Langkah ke-3: Geser G ke bawah 1
+ AAB..F
+ ..BCDF
+K.PPCDF
+ GHJIII
+ GHJ...
+ GZZMM.
+
+
+Langkah ke-4: Geser P ke kiri 2
+ AAB..F
+ ..BCDF
+PP..CDF
+ GHJIII
+ GHJ...
+ GZZMM.
+

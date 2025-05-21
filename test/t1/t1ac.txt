@@ -1,0 +1,55 @@
+Solusi ditemukan dalam 5 langkah:
+Waktu pencarian: 2195 ms
+Papan awal:
+AAB..F 
+..BCDF 
+GPPCDFK
+GH.III 
+GHJ... 
+LLJMM. 
+
+
+Langkah ke-1: Geser C ke atas 1
+AABC.F 
+..BCDF 
+GPP.DFK
+GH.III 
+GHJ... 
+LLJMM. 
+
+
+Langkah ke-2: Geser I ke kiri 1
+AABC.F 
+..BCDF 
+GPP.DFK
+GHIII. 
+GHJ... 
+LLJMM. 
+
+
+Langkah ke-3: Geser F ke bawah 3
+AABC.. 
+..BCD. 
+GPP.D.K
+GHIIIF 
+GHJ..F 
+LLJMMF 
+
+
+Langkah ke-4: Geser D ke atas 1
+AABCD. 
+..BCD. 
+GPP...K
+GHIIIF 
+GHJ..F 
+LLJMMF 
+
+
+Langkah ke-5: Geser P ke kanan 4
+AABCD. 
+..BCD. 
+G....PP
+GHIIIF 
+GHJ..F 
+LLJMMF 
+

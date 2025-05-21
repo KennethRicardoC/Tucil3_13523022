@@ -1,0 +1,37 @@
+Solusi ditemukan dalam 3 langkah:
+Waktu pencarian: 63 ms
+Papan awal:
+AABB.C 
+..D..C 
+PPD..CK
+..DEE. 
+FF.... 
+GG.... 
+
+
+Langkah ke-1: Geser D ke bawah 2
+AABB.C 
+.....C 
+PP...CK
+..DEE. 
+FFD... 
+GGD... 
+
+
+Langkah ke-2: Geser C ke bawah 3
+AABB.. 
+...... 
+PP....K
+..DEEC 
+FFD..C 
+GGD..C 
+
+
+Langkah ke-3: Geser P ke kanan 5
+AABB.. 
+...... 
+.....PP
+..DEEC 
+FFD..C 
+GGD..C 
+
